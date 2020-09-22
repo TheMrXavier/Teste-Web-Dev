@@ -1,4 +1,4 @@
-Para o bom funcionamento do web site de teste se faz necessário a conexão com a internet já que alguma framewors funcionam por importação da biblioteca online.
+Para o bom funcionamento do web site de teste se faz necessário a conexão com a internet já que algumas framewors funcionam por importação da biblioteca online.
 
 Para o rodar o projeto é simples.
 
